@@ -3,6 +3,8 @@
 - # **👋 Hi! I’m Parul Malhotra** 
  ### Technology Enthusiast | Aspiring Astrophysicist | Creative Thinker
  > _Exploring the cosmos with code: where the stars meet silicon and the universe unfolds in lines of logic._
+   
+ I'am passionate about coding and technology and thrive on merging conceptualization of computer science with astrophysics. Apart from interest in technical things I like reading books and different types of creativity. 
  #### 🌱 I’m currently pursuing **B.Tech in Electronics and Communication** at **GURU NANAK DEV ENGINEERING COLLEGE,LUDHIANA.**                                                                                                                                        
   
   
