@@ -1,6 +1,6 @@
 
 
-- # **👋 Hi! I’m Parul Malhotra** 
+ # **👋 Hi! I’m Parul Malhotra** 
  ### Technology Enthusiast | Aspiring Astrophysicist | Creative Thinker
  > _Exploring the cosmos with code: where the stars meet silicon and the universe unfolds in lines of logic._
    
